@@ -13,7 +13,17 @@ private:
     map<string,string> location;
     int numberOfPresentations;
 public:
+    const string &getTopicOfTheDay() const;
 
+    void setTopicOfTheDay(const string &topicOfTheDay);
+
+    const map<string, string> &getLocation() const;
+
+    void setLocation(const map<string, string> &location);
+
+    int getNumberOfPresentations() const;
+
+    void setNumberOfPresentations(int numberOfPresentations);
 
 
 };
