@@ -1,7 +1,3 @@
-//
-// Created by Professional on 15.10.2021.
-//
-
 #ifndef WEEK5_IEEE_H
 #define WEEK5_IEEE_H
 #include "bits/stdc++.h"
@@ -25,7 +21,6 @@ public:
     const set<string> &getTopicsOfPresentations() const;
 
     void setTopicsOfPresentations(const set<string> &topicsOfPresentations);
-
 
 };
 

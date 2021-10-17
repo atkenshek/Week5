@@ -1,7 +1,3 @@
-//
-// Created by Professional on 15.10.2021.
-//
-
 #ifndef WEEK5_ACM_H
 #define WEEK5_ACM_H
 #include "string"
